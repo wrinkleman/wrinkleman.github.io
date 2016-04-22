@@ -3,7 +3,7 @@ title: 吕彦俊的技术博客
 email: yanjun.lu27@icould.com
 description: > #吕彦俊的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.wrinkleman.top" # the base hostname & protocol for your site
+url: "http://wrinkleman.top" # the base hostname & protocol for your site
 # twitter_username: coolnameismy@hotmail.com
 github_username:  wrinkleman
 
@@ -14,7 +14,7 @@ paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
   name: 吕彦俊
   email: yanjun.lu27@icloud.com
-  link: http://wrinkleman.github.com/
+  link: http://wrinkleman.top/
   # weibo: http://weibo.com/1897719834
   github: http://github.com/wrinkleman
 title: 路易的技术博客                             #自定义常量
