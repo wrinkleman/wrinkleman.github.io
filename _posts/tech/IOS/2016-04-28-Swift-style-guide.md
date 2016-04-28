@@ -147,7 +147,7 @@ let colour = "red"
 
 * Indent using 2 spaces rather than tabs to conserve space and help prevent line wrapping. Be sure to set this preference in Xcode and in the Project settings as shown below:
 
-  ![Xcode indent settings](https://github.com/raywenderlich/swift-style-guide/blob/master/screens/xcode-jump-bar.png)
+  ![Xcode indent settings](http://wrinkleman.top/public/screens/xcode-jump-bar.png)
   
   ![Xcode Project settings](http://wrinkleman.top/public/screens/project_settings.png)
 
