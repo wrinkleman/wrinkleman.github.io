@@ -147,9 +147,9 @@ let colour = "red"
 
 * Indent using 2 spaces rather than tabs to conserve space and help prevent line wrapping. Be sure to set this preference in Xcode and in the Project settings as shown below:
 
-  ![Xcode indent settings](screens/indentation.png)
+  ![Xcode indent settings](https://github.com/raywenderlich/swift-style-guide/blob/master/screens/xcode-jump-bar.png)
   
-  ![Xcode Project settings](screens/project_settings.png)
+  ![Xcode Project settings](http://wrinkleman.top/public/screens/project_settings.png)
 
 * Method braces and other braces (`if`/`else`/`switch`/`while` etc.) always open on the same line as the statement but close on a new line.
 * Tip: You can re-indent by selecting some code (or ⌘A to select all) and then Control-I (or Editor\Structure\Re-Indent in the menu). Some of the Xcode template code will have 4-space tabs hard coded, so this is a good way to fix that.
