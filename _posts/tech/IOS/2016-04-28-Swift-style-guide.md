@@ -117,7 +117,7 @@ When referring to functions in prose (tutorials, books, comments) include the re
 
 When in doubt, look at how Xcode lists the method in the jump bar – our style here matches that.
 
-![Methods in Xcode jump bar](screens/xcode-jump-bar.png)
+![Methods in Xcode jump bar](http://wrinkleman.top/public/screens/xcode-jump-bar.png)
 
 ### Class Prefixes
 
@@ -147,7 +147,7 @@ let colour = "red"
 
 * Indent using 2 spaces rather than tabs to conserve space and help prevent line wrapping. Be sure to set this preference in Xcode and in the Project settings as shown below:
 
-  ![Xcode indent settings](http://wrinkleman.top/public/screens/xcode-jump-bar.png)
+  ![Xcode indent settings](http://wrinkleman.top/public/screens/indentation.png)
   
   ![Xcode Project settings](http://wrinkleman.top/public/screens/project_settings.png)
 
